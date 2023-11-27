@@ -33,6 +33,9 @@ print("Bot:", response)
 
 In this example, the chatbot uses spaCy for basic NLP tasks, such as tokenization and part-of-speech tagging. It then checks the user's input against predefined patterns for different intents ("greet", "goodbye", and a default response). If a match is found, the bot responds accordingly.
 
+
+
+
 ### Using TensorFlow:
 
 Simple example using TensorFlow and the Keras API for a basic echo bot:
